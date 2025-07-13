@@ -107,10 +107,10 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "5549a78b4e72f9ac12a95b523c8ee3088abee337"
+      resolved-ref: "11eeea7cdc30f30c1816493de7c2400d2d23fca4"
       url: "https://github.com/cartrustsa/flutter_google_maps_webservices"
     source: git
-    version: "1.1.1"
+    version: "1.2.0"
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
